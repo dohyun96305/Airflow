@@ -10,7 +10,7 @@
   * Send notification to Email, Slack
   * Make dependencies between tasks in DAG
 
-* In This Section
+* **In This Section**
   * Initiate DAG => 01
   * Add HttpSensor, FileSensor => 02, 03
   * Add PythonOperator, BashOperator => 04, 05, 
