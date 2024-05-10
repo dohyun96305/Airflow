@@ -16,4 +16,4 @@
   * Add PythonOperator, BashOperator => 04, 05, 
   * Add HiveOperator, SparkSubmitOperator => 06, 07
   * Add EmailOperator, SlackWebhookOperator => 08
-  * Set Dependencies => 09
+  * Set Dependencies => final
