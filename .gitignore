@@ -3,6 +3,8 @@
 .DS_Store
 .venv
 .astro
+.overirde.yml
+.yml 
 
 __pycache__/
 include/data
@@ -16,7 +18,10 @@ airflow-webserver.pid
 airflow.cfg
 airflow.db
 webserver_config.py
+
 Dockerfile
+docker-compose.override.yml
 .dockerignore
+
 packages.txt
 requirements.txt
